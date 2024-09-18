@@ -29,7 +29,11 @@ const Movie = () => {
                     border:"1px solid yellow"}}/>
                 </div>
                 <h5>{item.title}</h5>
-                <p>{item.release_date}</p>
+                <p>{item.release_date}{' '}
+                <a href={item.play} target="_blank" rel="noopener noreferrer" style={{textDecoration:"none"}}>
+                  Play
+                </a>
+                </p>
             </div>
         </div>)
       }
