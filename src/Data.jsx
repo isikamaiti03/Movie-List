@@ -9,6 +9,7 @@ export const movies = [
       poster_path:
         "https://image.tmdb.org/t/p/original/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
       category: "Action",
+      play:"https://katmoviehd.fi/deadpool-wolverine-2024-film/",
     },
     {
       id: 718821,
@@ -19,6 +20,7 @@ export const movies = [
       poster_path:
         "https://image.tmdb.org/t/p/original/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
       category: "Thriller",
+      play:"https://katmoviehd.fi/twisters-2024-hindi/",
     },
     {
       id: 1022789,
@@ -29,6 +31,7 @@ export const movies = [
       poster_path:
         "https://image.tmdb.org/t/p/original/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
       category: "Animation",
+      play:"https://katmoviehd.fi/inside-out-2-2024-hindi-dub/"
     },
     {
       id: 519182,
@@ -39,6 +42,7 @@ export const movies = [
       poster_path:
         "https://image.tmdb.org/t/p/original/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
       category: "Animation",
+      play:"https://katmoviehd.fi/despicable-me-4-hindi-dub/",
     },
     {
       id: 573435,
@@ -49,6 +53,7 @@ export const movies = [
       poster_path:
         "https://image.tmdb.org/t/p/original/oGythE98MYleE6mZlGs5oBGkux1.jpg",
       category: "Action",
+      play:"https://katmoviehd.fi/bad-boys-ride-or-die-2024/"
     },
     {
       id: 1160018,
@@ -59,6 +64,7 @@ export const movies = [
       poster_path:
         "https://image.tmdb.org/t/p/original/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg",
       category: "Thriller",
+      play:"https://www.justwatch.com/in/movie/kill-2024",
     },
     {
       id: 762441,
@@ -69,6 +75,7 @@ export const movies = [
       poster_path:
         "https://image.tmdb.org/t/p/original/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
       category: "Horror",
+      play:"https://katmoviehd.fi/a-quiet-place-day-one-2024/",
     },
     {
       id: 831815,
@@ -79,6 +86,7 @@ export const movies = [
       poster_path:
         "https://image.tmdb.org/t/p/original/30YnfZdMNIV7noWLdvmcJS0cbnQ.jpg",
       category: "Animation",
+      play:"https://katmoviehd.fi/saving-bikini-bottom-2024/", 
     },
     {
       id: 1079091,
@@ -89,6 +97,7 @@ export const movies = [
       poster_path:
         "https://image.tmdb.org/t/p/original/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg",
       category: "Drama",
+      play:"https://katmoviehd.fi/it-ends-with-us-2024-full-movie-hindi-dubbed/",
     },
     {
       id: 945961,
@@ -99,6 +108,7 @@ export const movies = [
       poster_path:
         "https://image.tmdb.org/t/p/original/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
       category: "Sci-Fi",
+      play:"https://katmoviehd.fi/alien-romulus-2024-movie-hindi-hd/",
     },
   ];
   
