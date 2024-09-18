@@ -1,14 +1,13 @@
 import React, { useState } from 'react'
 import { movies } from './Data'
-import './Practice.css';
-const Practice = () => {
+import './Movie.css';
+const Movie = () => {
     const [movieList,setMovieList]=useState(movies);
     const filteredByData=(cat)=>{
         setMovieList(movies.filter((data)=>data.category==cat));
     }
   return (
     <>
-
         <div className='my-3' style={{width:"1000px",margin:"auto",textAlign:"center"}}>
           <button type="button" onClick={()=>setMovieList(movies)} className="btn btn-outline-primary mx-3">All</button>
           <button type="button" onClick={()=>filteredByData("Action")} className="btn btn-outline-secondary mx-3">Action</button>
@@ -39,4 +38,4 @@ const Practice = () => {
   )
 }
 
-export default Practice
+export default Movie
