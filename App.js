@@ -1,16 +1,14 @@
 
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import './App.css';
-import Practice from "./Practice";
+import Movie from "./Movie";
 
 const App = () => {
  
   return (
     <>
-    
     <Routes>
-      <Route path="/" element={<Practice/>} />
+      <Route path="/" element={<Movie/>} />
     </Routes>
    </> 
   );
